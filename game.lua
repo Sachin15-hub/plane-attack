@@ -8,7 +8,7 @@ b=0
 
 
 local blass=audio.loadSound("expo.mp3")
-
+//i am cool
 local blass2=audio.loadSound("games.mp3")
 local bulletvar=0
 local j=200
